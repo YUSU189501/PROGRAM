@@ -1,6 +1,6 @@
 package personal;
 
-class Main {
+public class Main {
     public static void main(String[] args) {
         // straightメソッドを呼び出し
         straight(new String[]{"A", "S", "D", "F"});
