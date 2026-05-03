@@ -1,4 +1,3 @@
-商品管理システム(COBOL)
-DBGOODS01.cbl
-DBGOODS02.cbl
-FILEDBGOODS01.cbl
+<p>DBGOODS01.cbl</p>
+<p>DBGOODS02.cbl</p>
+<p>FILEDBGOODS01.cbl</p>
