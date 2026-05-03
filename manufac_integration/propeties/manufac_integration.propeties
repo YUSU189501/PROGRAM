@@ -1,0 +1,9 @@
+# SQLファイル
+SQL_FILE="manufac_integration.sql"
+
+# 接続情報
+DB_NAME="mydb"
+DB_USER="suzuki"
+DB_HOST="127.0.0.1"
+DB_PORT="5432"
+DB_PASSWD='yudai103'
